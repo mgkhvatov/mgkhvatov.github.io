@@ -34,6 +34,16 @@
     
     <item>
       <title>Моя прошедшая неделя</title>
+      <link>https://example.com/post/last-week2/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last-week2/</guid>
+      <description>&lt;h2 id=&#34;обзор-недели&#34;&gt;Обзор недели&lt;/h2&gt;
+&lt;p&gt;Неделя была хорошей, я много чего успел сделать, успел погулять по городу и пройти пару модулей из курса по Next.js на Stepik. начал читать новую книгу и провёл хорошо выходные, общаясь с друзьями и родными.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя прошедшая неделя</title>
       <link>https://example.com/post/last-week/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/last-week/</guid>
@@ -102,10 +112,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Centralized version control&#34; srcset=&#34;
-               /post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_9c9c0ee41e563559f409fd3611732d07.webp 400w,
+               /post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_99f9d39c0a3326444b4fcc8abe84f85b.webp 400w,
                /post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_0728eb73031011f5083adfca291cd978.webp 760w,
                /post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_9c9c0ee41e563559f409fd3611732d07.webp&#34;
+               src=&#34;https://example.com/post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_99f9d39c0a3326444b4fcc8abe84f85b.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -134,16 +144,41 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Distributed version control&#34; srcset=&#34;
-               /post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_385db471b8aeaa0551b4183e3e86b8c6.webp 400w,
+               /post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_95772f97a00f781faf4b19ce76ef3527.webp 400w,
                /post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_b481432f82daee9ba82479c918e03cb8.webp 760w,
                /post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_385db471b8aeaa0551b4183e3e86b8c6.webp&#34;
+               src=&#34;https://example.com/post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_95772f97a00f781faf4b19ce76ef3527.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Более того, многие РСКВ могут одновременно взаимодействовать с несколькими удалёнными репозиториями, благодаря этому вы можете работать с различными группами людей, применяя различные подходы единовременно в рамках одного проекта. Это позволяет применять сразу несколько подходов в разработке, например, иерархические модели, что совершенно невозможно в централизованных системах.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки разметки</title>
+      <link>https://example.com/post/markdown-languages/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown-languages/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Легкий язык разметки&lt;/strong&gt; является типом разметки языка , используя простой синтаксис , разработанный , чтобы быть легко печатать с простым текстовым редактором , и легко читаются в его бесформатной форме .&lt;/p&gt;
+&lt;h2 id=&#34;презентация&#34;&gt;Презентация&lt;/h2&gt;
+&lt;p&gt;Облегченные языки разметки используются в приложениях, где пользователей можно обманом заставить прочитать исходный документ, а также правильно отрисованный документ. Например, статьи в Википедии написаны с использованием облегченного языка разметки, вики-текста .&lt;/p&gt;
+&lt;p&gt;Другой пример: человек, загружающий программную библиотеку, может предпочесть читать документацию в текстовом редакторе, а не в веб-браузере .&lt;/p&gt;
+&lt;p&gt;Основное применение этих языков - ввод контента для веб-сайта с участием различных авторов, таких как блоги и вики , для которых единственный гарантированный интерфейс, доступный для всех авторов, - это простое текстовое поле .&lt;/p&gt;
+&lt;p&gt;Программное обеспечение на сервере преобразует текст в общем языке разметки , такие как XML , HTML или XHTML .&lt;/p&gt;
+&lt;p&gt;Некоторые языки программирования имеют облегченный язык разметки в качестве подъязыка, чтобы можно было вставить прокомментированную документацию в исходный код . Это облегчает грамотное программирование с использованием генераторов документации . Например, Plain Old Documentation - это формат документации для Perl , а ReStructuredText - это формат, используемый в документации Python .&lt;/p&gt;
+&lt;h2 id=&#34;типы&#34;&gt;Типы&lt;/h2&gt;
+&lt;p&gt;Легкие языки разметки можно разделить на категории в соответствии с типом используемой разметки. Как и HTML, в некоторых языках используются открывающие и закрывающие теги с одинаковыми названиями (например: &lt;b&gt; полужирный &lt;/b&gt; в HTML или [b] полужирный [/ b] в BBcode ), а в других - знаки препинания и другие специальные Символы ASCII как теги. Третьи используют оба способа (например: Textile ) или позволяют встраивать HTML (например: Markdown ), иногда путем добавления элементов (например: &lt;ref&gt; source &lt;/ref&gt; в MediaWiki ).&lt;/p&gt;
+&lt;p&gt;В большинстве языков есть теги для строк или блоков, а в некоторых - для небольших частей текста (несколько слов), но некоторые предлагают теги только для больших блоков текста.&lt;/p&gt;
+&lt;p&gt;Некоторые языки предназначены для конкретного использования, например, для документации программного кода (например, POD, RD), или могут быть преобразованы только в один формат (обычно HTML). У других более широкий диапазон возможностей.&lt;/p&gt;
+&lt;p&gt;Для создания документов используются следующие языки: AsciiDoc , atx , BBCode , Creole, Epytext, Gemtext, Haml , JsonML, MakeDoc, Markdown , Org-mode , POD , RD, ReStructuredText , Setext , SISU, SPIP , Texy!, Текстиль , Txt2tags , UDO, Wikitexte и Xupl.&lt;/p&gt;
+&lt;p&gt;Скорее они используются для представления данных: Curl , JSON , OGDL и YAML .&lt;/p&gt;
+&lt;h2 id=&#34;исторический&#34;&gt;Исторический&lt;/h2&gt;
+&lt;p&gt;Первоначально, легкие языки разметки были использованы на экранах не графики , которые не могли отображения символов в курсивом или жирным шрифтом . Чтобы обозначить эти основные моменты, потребовались неформальные методы. Этот вариант форматирования затем использовался при обмене сообщениями электронной почты .&lt;/p&gt;
+&lt;p&gt;В 1986 году международный стандарт SGML предоставил средства для определения и анализа облегченных языков разметки.&lt;/p&gt;
+&lt;p&gt;История облегченных языков разметки тесно связана с издательскими технологиями, будь то в области технической документации или публикации.&lt;/p&gt;
 </description>
     </item>
     
@@ -331,7 +366,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-516843279&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-135697428&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -341,7 +376,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-516843279&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-135697428&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -11,30 +11,34 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/academic/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/category/demo/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/category/life/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/category/study/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/last-week2/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/study/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -43,6 +47,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/git-managment/</loc>
+    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/markdown-languages/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

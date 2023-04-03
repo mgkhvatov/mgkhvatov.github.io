@@ -72,10 +72,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Centralized version control&#34; srcset=&#34;
-               /post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_9c9c0ee41e563559f409fd3611732d07.webp 400w,
+               /post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_99f9d39c0a3326444b4fcc8abe84f85b.webp 400w,
                /post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_0728eb73031011f5083adfca291cd978.webp 760w,
                /post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_9c9c0ee41e563559f409fd3611732d07.webp&#34;
+               src=&#34;https://example.com/post/git-managment/centralized_hu74fb508a0af33a33fa0f541a94378552_22810_99f9d39c0a3326444b4fcc8abe84f85b.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -104,10 +104,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Distributed version control&#34; srcset=&#34;
-               /post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_385db471b8aeaa0551b4183e3e86b8c6.webp 400w,
+               /post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_95772f97a00f781faf4b19ce76ef3527.webp 400w,
                /post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_b481432f82daee9ba82479c918e03cb8.webp 760w,
                /post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_385db471b8aeaa0551b4183e3e86b8c6.webp&#34;
+               src=&#34;https://example.com/post/git-managment/distributed_hu7dff96406965f7bb87732a216019226c_26657_95772f97a00f781faf4b19ce76ef3527.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
